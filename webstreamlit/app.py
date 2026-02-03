@@ -26,4 +26,4 @@ def greet():
 st.code(code_example, language="python")
 
 st.divider()
-st.image( "./static/0a5e9323-dbad-432d-ac58-d291718345d9___FREC_Scab 3417.JPG")
+st.image( "static/0a5e9323-dbad-432d-ac58-d291718345d9___FREC_Scab 3417.JPG")
